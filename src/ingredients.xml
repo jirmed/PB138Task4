@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ingredients xmlns="http://recipes.org">
+    <title>Ricotta Pie Ingredients</title>
+    <ingredient name="filling">
+      <ingredient name="ricotta cheese"/> 
+      <ingredient name="eggs"/> 
+      <ingredient name="white sugar"/> 
+      <ingredient name="vanilla extract"/> 
+      <ingredient name="semisweet chocolate chips"/> 
+    </ingredient>
+    <ingredient name="dough">
+      <ingredient name="flour"/> 
+      <ingredient name="baking powder"/> 
+      <ingredient name="white sugar"/> 
+      <ingredient name="shortening"/> 
+      <ingredient name="eggs, lightly beaten" /> 
+      <ingredient name="vanilla extract"/> 
+    </ingredient>
+    <ingredient name="milk"/>
+</ingredients>
